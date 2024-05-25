@@ -1,0 +1,32 @@
+#main {
+    background-image: url(Images/road\ with\ background.jpg);
+    width: auto;
+    height: 592px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+
+#main img {
+
+    position: absolute;
+    top: 78%;
+    left: 0;  
+
+}
+
+#btn button{
+    background-color: yellow;
+    width: 100px;
+    font-size: 30px;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 75%;
+}
+
+#btn{
+    text-align: center;
+}
+
